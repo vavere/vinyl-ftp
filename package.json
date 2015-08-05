@@ -28,7 +28,7 @@
     "upload"
   ],
   "dependencies": {
-    "ftp": "^0.3.8",
+    "ftp": "github:vavere/node-ftp",
     "minimatch": "~2.0.1",
     "object-assign": "^1.0.0",
     "parallel-transform": "^0.2.2",
