@@ -29,16 +29,16 @@
   ],
   "dependencies": {
     "ftp": "github:vavere/node-ftp",
-    "minimatch": "~2.0.1",
-    "object-assign": "^1.0.0",
+    "minimatch": "^3.0.0",
+    "object-assign": "^4.0.0",
     "parallel-transform": "^0.2.2",
-    "through2": "~0.6.3",
-    "vinyl": "~0.4.6"
+    "through2": "^2.0.0",
+    "vinyl": "^1.0.0"
   },
   "devDependencies": {
     "expect": "^1.6.0",
     "mocha": "*",
-    "rmdir": "~1.0.4",
+    "rmdir": "^1.1.0",
     "vinyl-fs": "*"
   }
 }
